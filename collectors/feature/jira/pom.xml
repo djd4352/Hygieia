@@ -63,7 +63,7 @@
     <junit.version>4.11</junit.version>
     <final.name>jira-feature-collector</final.name>
     <httpasyncclient.version>4.0-beta3-atlassian-1</httpasyncclient.version>
-    <httpclient.version>4.2.1-atlassian-2</httpclient.version>
+    <httpclient.version>4.5.13</httpclient.version>
   </properties>
 
   <build>
